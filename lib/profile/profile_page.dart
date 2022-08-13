@@ -1,6 +1,6 @@
 
 
-import 'package:app_compe/appbar_widget.dart';
+import 'package:app_compe/profile/appbar_widget.dart';
 import 'package:flutter/material.dart';
 
 
